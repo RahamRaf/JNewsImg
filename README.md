@@ -1,9 +1,11 @@
-# JImage README #
+# JImage #
 
 This PHP web application creates *[JoopeA News (JNews)](https://joopea.news)* standard image proportion.
+
 * Version 1.0
 
 ## Minimum Requirements ##
+
 * Linux like server
 * PHP 5.7 or higher
 * Apache2 
